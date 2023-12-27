@@ -1,6 +1,5 @@
 """
    Name: Sreedev S S
-College: College of Engineering, Attingal
  Python: v3.12.0
 """
 
